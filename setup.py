@@ -21,7 +21,7 @@ name = 'mlproject',
 version = '0.0.1',
 author = 'Danial',
 author_email = 'daniyalsid26@gmail.com',
-packges = find_packages(),
+packages = find_packages(),
 install_requires = get_requirements('requirements.txt')
 
 
