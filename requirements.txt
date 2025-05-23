@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost --no-binary xgboost
 dill
+Flask
 #-e .
